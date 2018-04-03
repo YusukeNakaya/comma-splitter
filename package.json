@@ -1,0 +1,13 @@
+{
+  "name": "comma-splitter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "unpkg": "index.browser.js",
+  "author": "YusukeNakaya",
+  "description": "Automatically add commas every 3 digits. Ex: 1000000 to '1,000,000'",
+  "keywords": [
+    "comma",
+    "digits"
+  ],
+  "license": "MIT"
+}
