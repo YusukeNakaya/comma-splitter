@@ -1,6 +1,6 @@
 # comma-splitter
 
-Automatically add commas every 3 digits. Ex: "1000000" to "1,000,000"
+Automatically add commas every 3 digits. Ex: 1000000 to "1,000,000"
 
 ## Installation
 
